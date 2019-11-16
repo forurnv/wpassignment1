@@ -1,0 +1,32 @@
+
+
+/*
+Theme Name: Assignment1
+Author: Richard
+Description: LawFirm Assignment
+Version: 0.0.1
+Tags: minimalist
+*/
+
+
+body {
+  background-color: black;
+  height: 100vh;
+}
+
+
+header {
+  background-color: rgb(1, 43, 160);
+  height: 1000px;
+  width: 100%;
+}
+
+
+footer {
+  background-color: rgb(1, 43, 160);
+  height: 100px;
+  width: 100%;
+  /* position: absolute; */
+  bottom: 0;
+}
+
